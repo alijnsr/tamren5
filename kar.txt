@@ -1,0 +1,5 @@
+# Ignore system files
+$RECYCLE.BIN/
+desktop.ini
+*.pyc
+__pycache__/
